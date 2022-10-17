@@ -1,7 +1,7 @@
-Marek Drda<br>
-==========
-Web Developer<br>
--------------
+# Marek Drda    
+
+## Web Developer    
+
 Email: drda.marek@gmail.com
 
 <!---
